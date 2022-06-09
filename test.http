@@ -1,0 +1,10 @@
+POST  https://doc.vie-ko.com/api/gamesQ HTTP/1.1
+content-type: application/json
+
+{   
+    "game_id": "2",
+    "question": "나",
+    "answer": "na",
+    "description": "na",
+    "audio": "1"
+}
